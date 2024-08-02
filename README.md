@@ -5,4 +5,6 @@ New DMA attack device, has been in 2021 PCILeech open source the first DMA devic
 
 we found a lot of hardware based on the DMA kernel to complete the DMA kernel work method, I work through the principle of the graphics card, to produce a new type of hardware attack programme, but I have not open source, he can work on many games, at the same time, I've been in the social media platform to share and give away several platform to share and give away a few customers to test, their feedback are very good, if you also want to support this project you can follow and join my DISCORD!
 
+https://discord.gg/xr4YF8cVx3
+
 ![one](https://github.com/user-attachments/assets/ba74997e-e52e-4d0a-a7d1-53c139589fb9)
